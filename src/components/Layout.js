@@ -1,6 +1,6 @@
 import { Box } from "@mui/material";
 import Navbar from "./Navbar";
-import Sidebar from "./NewsSidebar";
+import Sidebar from "./NewsSidebar.jsx";
 
 function Layout({ children }) {
   return (
